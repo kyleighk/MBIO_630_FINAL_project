@@ -12,25 +12,25 @@ no longer at work. This study aimed to answer if more people were
 surfing during the 2020 stay-at-home order than in prior years. It also
 aimed to see if there was a greater influx of surfers in 2021 compared
 to earlier years. Using preliminary data from Google Earth Pro and ESRI
-World Imagery Wayback, surfers were counted using the ImageJ multiple
-point tool on multiple Oahu surf breaks in 2021, 2020, 2019, and prior
-years. There were few satellite images to pick from, especially with
-limited data in 2020, so the sample size remained small. Significance
-was found between the total number of surfers at Bowls and Castles (p =
-0.012), Flat Island (p = 0.018), Tracks (p = 0.0076), and Waikiki (p =
-0.080). There was also a significant difference between the number of
-surfers at Castles (p = 0.000057), Chuns (p = 0.0035), Flat Island (p =
-0.000083), Kewalos (p = 0.00042), and Tracks (p = 0.000040) when
-compared to Waikiki. However, the small sample size led to no
-significance being found between any of the years. Breaks were
-identified with changes that might be significant if using drone imagery
-and further access to satellite imagery was acquired. Insignificant
-changes were observed in the number of people at the different breaks,
-and shifts were seen between the breaks. This indicates that more
-imagery and the possible expansion of the study to all the Hawaiian
-Islands might be significant. Ultimately, this study’s results help
-identify reefs that would be beneficial to study and observations in the
-future regarding the influx of people and how that has affected them.
+World Imagery Wayback, surfers were counted using the ImageJ multi-point
+tool on multiple Oahu surf breaks in 2021, 2020, 2019, and prior years.
+There were few satellite images to pick from, especially with limited
+data in 2020, so the sample size remained small. Significance was found
+between the total number of surfers at Bowls and Castles (p = 0.012),
+Flat Island (p = 0.018), Tracks (p = 0.0076), and Waikiki (p = 0.080).
+There was also a significant difference between the number of surfers at
+Castles (p = 0.000057), Chuns (p = 0.0035), Flat Island (p = 0.000083),
+Kewalos (p = 0.00042), and Tracks (p = 0.000040) when compared to
+Waikiki. However, the small sample size led to no significance being
+found between any of the years. Breaks were identified with changes that
+might be significant if using drone imagery and further access to
+satellite imagery was acquired. Insignificant changes were observed in
+the number of people at the different breaks, and shifts were seen
+between the breaks. This indicates that more imagery and the possible
+expansion of the study to all the Hawaiian Islands might be significant.
+Ultimately, this study’s results help identify reefs that would be
+beneficial to study and observations in the future regarding the influx
+of people and how that has affected them.
 
 ## Introduction
 
@@ -78,8 +78,9 @@ Different breaks likely saw a shift in the number of people surfing in
 the summer of 2020. Waikiki, for instance, most likely saw a drop in the
 number of people since most surfing tourism tends to frequent Canoes and
 Queens breaks. Closer to the west of Waikiki, the surfer population
-likely increased at local breaks like Tracks. West side and north shore
-breaks probably increased since more local traffic is seen there.
+likely increased at local town breaks like Bowls and Rockpiles. West
+side and north shore breaks probably increased since more local traffic
+is seen there.
 
 While 2020 saw an enormous decrease in the number of tourists, the
 following summer, there was a boom in the number of people visiting the
