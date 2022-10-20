@@ -134,8 +134,8 @@ each break prior to 2019 due to a lack of quality imagery that both had
 surf and a clear view of the surfers. The years before 2019 were taken
 as a control to have an extra image to compare the surfer counts from
 2020 and 2021. All images and counts created are available on GitHub
-(<https://github.com/kyleighk/MBIO_630_Project>) in the “counts” and
-“images” files.
+(<https://github.com/kyleighk/MBIO_630_FINAL_project>) in the “counts”
+and “images” files.
 
 The images were analyzed using ImageJ (1.53t) and the multiple-point
 tool. Since surfers could easily be identified, only boards were labeled
