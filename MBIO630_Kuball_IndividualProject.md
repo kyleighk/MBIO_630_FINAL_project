@@ -137,10 +137,10 @@ as a control to have an extra image to compare the surfer counts from
 (<https://github.com/kyleighk/MBIO_630_FINAL_project>) in the “counts”
 and “images” files.
 
-The images were analyzed using ImageJ (1.53t) and the multiple-point
-tool. Since surfers could easily be identified, only boards were labeled
-using the tool, excluding canoes, swimmers, and bodyboards. Paddleboards
-were likely included in the count since paddleboards are challenging to
+The images were analyzed using ImageJ (1.53t) and the multi-point tool.
+Since surfers could easily be identified, only boards were labeled using
+the tool, excluding canoes, swimmers, and bodyboards. Paddleboards were
+likely included in the count since paddleboards are challenging to
 distinguish from a large surfboard in a satellite view of a lineup. All
 counts and images of the counts were saved in a CSV file and a jpg file
 to the “count” folder on GitHub.
